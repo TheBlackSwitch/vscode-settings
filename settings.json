@@ -1,0 +1,87 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "datapack.lint.nameOfTeams": null,
+    "explorer.incrementalNaming": "smart",
+    "editor.detectIndentation": false,
+    "[mcfunction]": {
+        "editor.defaultFormatter": "ChenCMD.mc-datapack-utility"
+    },
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "datapack.env.exclude": [
+        "data\\ancient_artifacts\\functions\\artifact_cauldron\\recipes\\tick.mcfunction"
+    ],
+    "explorer.confirmDelete": false,
+    "workbench.editorAssociations": {
+        "*.png": "imagePreview.previewEditor"
+    },
+    "git.openRepositoryInParentFolders": "never",
+    "mc-dp-icons.enableLoadTickAutoChange": false,
+    "mc-dp-icons.functionNamesForLoad": [
+        "load",
+        "init"
+    ],
+    "mc-dp-icons.functionNamesForTick": [
+        "tick",
+        "pre_tick"
+    ],
+    "files.associations": {
+        "*.mcfunction": "mcfunction",
+        "*.fsh": "hlsl",
+        "*.bolt": "mcfunction",
+        "*.mcmeta": "json"
+    },
+    "datapack.env.permissionLevel": 3,
+    "datapack.features.documentHighlighting": false,
+    "datapack.env.defaultVisibility": "public",
+    "datapack.lint.nameOfNbtCompoundTagKeys": null,
+    "workbench.colorTheme": "Vim Deep Dark",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "materialTheme.accent": "Indigo",
+    "workbench.startupEditor": "none",
+    "git.ignoreRebaseWarning": true,
+    "workbench.editor.empty.hint": "hidden",
+    "python.createEnvironment.trigger": "off",
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "python.defaultInterpreterPath": "c:\\Python314\\python.exe",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "C_Cpp.default.compilerPath": "",
+    "C_Cpp.default.includePath": [
+        "C:\\Users\\milor\\Documents\\Arduino\\libraries"
+    ],
+    "mecha.client.documentSelector": [
+        {
+            "scheme": "file",
+            "language": "mcfunction"
+        }
+    ],
+    "workbench.iconTheme": "mc-dp-icons",
+    "indentRainbow.colors": [
+
+        "rgba(55,59,69,0.20)",
+        "rgba(79,87,105,0.20)"
+    ],
+    "platformio-ide.autoOpenPlatformIOIniFile": false,
+    "C_Cpp.formatting": "vcFormat",
+    "platformio-ide.disablePIOHomeStartup": true,
+    "redhat.telemetry.enabled": false,
+    "python.analysis.typeCheckingMode": "standard",
+    "editor.fontFamily": "Consolas",
+    "editor.fontWeight": "400",
+    "explorer.compactFolders": false,
+    "workbench.activityBar.location": "top",
+    "datapackOptimization.rules.disabled": [
+        "scoreboard-fake-player-missing-hash",
+        "target-selector-no-dimension",
+        "target-selector-type-order",
+        "target-selector-no-type"
+    ],
+    "minode.uiScale": 8
+}
